@@ -1,4 +1,2 @@
-# Google-Home-Tello
-
-## Privacy Policy
+# Privacy Policy
 No information or data is collected.
